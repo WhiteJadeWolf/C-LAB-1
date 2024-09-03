@@ -2,7 +2,7 @@
 // small letter, a digit or a special symbol.
 #include <stdio.h>
 #include <ctype.h>
-int main(){
+void main(){
   char c;
   printf("Enter a character : ");
   scanf("%c",&c);
