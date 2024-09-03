@@ -1,6 +1,6 @@
 // Program to calculate area of a triangle.
 #include <stdio.h>
-int main() {
+void main() {
   float base,height,area;
   printf("Enter base length :");
   scanf("%f",&base);
