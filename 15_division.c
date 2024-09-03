@@ -1,6 +1,6 @@
 // Program to read marks of 5 subjects and print division.
 #include <stdio.h>
-int main() {
+void main() {
   float a,b,c,d,e,avg;
   printf("Enter marks of 5 subjects out of 100 : ");
   scanf("%f%f%f%f%f",&a,&b,&c,&d,&e);
