@@ -1,6 +1,6 @@
 // Program to convert Temperature from Fahrenheit to Degree Celcius
 #include <stdio.h>
-int main() {
+void main() {
   float c,f;
   printf("Enter Temperature in Fahrenheit: ");
   scanf("%f",&f);
