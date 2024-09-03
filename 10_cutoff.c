@@ -1,7 +1,7 @@
 // Write a C program to calculate the cutoff mark of a student
 // using the formula CM = M/2 + P/2 + C/2 + E
 #include <stdio.h>
-int main() {
+void main() {
   float cm,m,p,c,e;
   printf("Enter marks in Mathematics out of 200 : ");
   scanf("%f",&m);
