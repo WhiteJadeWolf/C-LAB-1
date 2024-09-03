@@ -1,6 +1,6 @@
 // Program to calculate gross salary.
 #include <stdio.h>
-int main() {
+void main() {
   float basic,da,hra,pf;
   printf("Enter Basic Salary :");
   scanf("%f",&basic);
