@@ -1,6 +1,6 @@
 // Program to read total seconds and convert it into time.
 #include <stdio.h>
-int main() {
+void main() {
   int ts,h,m,s;
   printf("Total no. of secs : ");
   scanf("%d",&ts);
