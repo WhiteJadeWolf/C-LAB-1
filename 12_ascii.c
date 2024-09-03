@@ -1,6 +1,6 @@
 // Program to print ASCII code of any character.
 #include <stdio.h>
-int main() {
+void main() {
   char ch;
   printf("Enter any character : ");
   scanf("%c",&ch);
