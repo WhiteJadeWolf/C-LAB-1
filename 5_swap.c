@@ -1,6 +1,6 @@
 // Program to swap two variables using Third variable
 #include <stdio.h>
-int main() {
+void main() {
   int a,b,c;
   printf("Enter value of a :");
   scanf("%d",&a);
